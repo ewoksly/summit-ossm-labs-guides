@@ -1,4 +1,4 @@
 .Module Three - Production Setup
-* xref:intro.adoc[Setup Travel Demo `ServiceMeshControlPlane` for Production]
-* xref:walkthrough.adoc[Walkthrough]
-* xref:finish.adoc[Finish]
+* xref:pages/intro.adoc[Setup Travel Demo `ServiceMeshControlPlane` for Production]
+* xref:pages/walkthrough.adoc[Walkthrough]
+* xref:pages/finish.adoc[Finish]
