@@ -1,3 +1,4 @@
+:imagesdir: ../assets/images
 # Securing (Authn & Authz) Gateways with MTLS and valid JWT Token
 
 == Task 1: Export Environment variables
