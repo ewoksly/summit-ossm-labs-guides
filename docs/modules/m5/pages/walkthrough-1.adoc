@@ -1,3 +1,4 @@
+:imagesdir: ../assets/images
 # Part I: Apply Business Authorization Restrictions
 # Red Hat Summit 2023
 
