@@ -1,4 +1,4 @@
 .Module Four - Authn & Authz
-* xref:intro.adoc[Securing (Authn & Authz) Gateways with MTLS and valid JWT Token]
-* xref:walkthrough.adoc[Walkthrough]
-* xref:finish.adoc[Finish]
+* xref:pages/intro.adoc[Securing (Authn & Authz) Gateways with MTLS and valid JWT Token]
+* xref:pages/walkthrough.adoc[Walkthrough]
+* xref:pages/finish.adoc[Finish]
