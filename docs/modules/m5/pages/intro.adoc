@@ -1,3 +1,4 @@
+:imagesdir: ../assets/images
 # Business Authz restrictions and Corporate CA Setup
 # Red Hat Summit 2023
 
